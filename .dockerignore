@@ -1,0 +1,8 @@
+__pycache__
+venv/
+.git/
+.env
+*.pyc
+.vscode
+.locustfile.py
+.locustfile2.py

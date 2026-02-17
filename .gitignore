@@ -1,0 +1,8 @@
+__pychache__
+venv/
+.env
+.vscode
+locustfile.py 
+locustfile2.py 
+Dockerfile
+docker-compose.yml
